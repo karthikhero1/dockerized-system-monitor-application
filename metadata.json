@@ -1,0 +1,6 @@
+{
+  "name": "SysMon - Dockerized Host Telemetry",
+  "description": "Real-time DevOps system monitoring dashboard with live CPU, memory, disk, and REST API telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
